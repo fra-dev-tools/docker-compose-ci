@@ -1,2 +1,2 @@
 # docker-compose-ci
-Docker-compose image for "dind"
+Docker-compose image for "dind" in CI/CD.
